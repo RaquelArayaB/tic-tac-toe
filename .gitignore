@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Package/compiled files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+
+# Maven target directory
+target/
+
+# Gradle build directory
+build/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
